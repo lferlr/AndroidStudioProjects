@@ -1,0 +1,2 @@
+rootProject.name='enviarDados'
+include ':app'
